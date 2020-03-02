@@ -1,0 +1,46 @@
+.jumbotron {
+	background-image: url(https://live.staticflickr.com/220/507615074_6f06a6b08b_b.jpg);
+	background-size: cover;
+	height: 80vh;
+	color: white;
+	max-width: 100%;
+}
+
+.imgDescription {
+	text-align: center;
+}
+
+.lead {
+	font-size: 30px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	max-width: 100%;
+}
+
+#img-caption {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+ul {
+	max-width: 550px;
+	margin: 0 auto 50px auto;
+	text-align: left;
+	line-height: 1.6;
+}
+
+li {
+	margin: 16px 0;
+}
+
+#tribute-link {
+	font-size: 1.6rem;
+}
